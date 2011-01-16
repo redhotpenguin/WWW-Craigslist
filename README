@@ -1,0 +1,23 @@
+=head1 NAME
+
+WWW::Craigslist - Post free stuff on Craigslist.
+
+=head1 DESCRIPTION
+
+This module is largely deprecated due to captchas added to craigslist,
+and is mainly here for educational (positive or negative) purposes.
+
+WWW::Craigslist is an API to Craigslist which allows you to post items
+that you are giving away for free.
+
+=head1 AUTHOR
+
+Fred Moyer <fred@redhotpenguin.com>
+
+=head1 COPYRIGHT
+
+Copyright 2006 Red Hot Penguin Consulting LLC
+
+=head1 LICENSE
+
+This software is licensed under the same terms as Perl itself.
